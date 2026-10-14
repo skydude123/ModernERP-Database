@@ -51,3 +51,8 @@ Thumbs.db
 *.key
 .env
 .env.*
+
+# October 14 2026 local database backups
+RISCDBbackup101426
+TWB2026backup101426
+TWINBEEbackup101426
