@@ -1,0 +1,53 @@
+﻿# ============================================
+# SQL Server database files / backups
+# ============================================
+*.bak
+*.mdf
+*.ldf
+*.ndf
+*.trn
+*.bkp
+*.backup
+
+# ============================================
+# Archive files
+# ============================================
+*.rar
+*.zip
+*.7z
+
+# ============================================
+# Known local database backup files without extensions
+# ============================================
+07212026SALESlatest
+08132026invLattestV3
+ERPRISCDBbackup091826
+LATESTBACKUPDB081426
+LatestBackupRISCDB080326
+LatestBACKUPRISCDB082226
+LatestRISCDBbackup073026
+LATESTRISCDBBCKUp080726
+LatestTWB2026DBbackup073026
+LBOOKRISCDBBACKUP
+RISCDBbckup071826
+TWB2026bckup071826
+
+# ============================================
+# Generated / temporary files
+# ============================================
+*.tmp
+*.temp
+*.log
+~$*
+.DS_Store
+Thumbs.db
+
+# ============================================
+# Secret/local config files if ever added
+# ============================================
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+.env.*
